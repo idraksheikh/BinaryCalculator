@@ -1,0 +1,108 @@
+body{
+    background-color: orange; 
+}
+ 
+
+.btns2{
+    padding: 10px,10px,10px,10px;
+    background-color: white;
+    width: 33%;
+   margin-top: 100px;
+   margin-left: 33%;
+}
+
+ .res2{       
+    border: solid;
+    height: 48px;
+    font-size:20px;    
+}
+
+.btn2{
+    
+    color: black;
+
+}
+.btn2:hover{
+    outline-color: slategray;
+    border: solid;
+    color: slategray;
+
+}
+#btn2Eql:hover{
+    outline-color:darkgreen;
+    border: solid;
+    color: green;
+
+}   
+#btn2Clr:hover,#btn2Del:hover{
+    outline-color:red;
+    border: solid;
+    color: red;
+
+} 
+#btn20:hover, #btn21:hover, #btn22:hover,#btn23:hover, #btn24:hover,#btn25:hover, #btn26:hover, #btn27:hover,#btn28:hover, #btn29:hover{
+    outline-color:blue;
+    border: solid;
+    color: blue;
+
+}
+.btns2 > .btn2{
+    width: 20%;
+    height: 36px;
+    font-size: 18px;
+    margin: 0px;
+    float: left;
+
+}
+
+.btns{
+    padding: 10px,10px,10px,10px;
+    background-color: white;
+    width: 33%;
+   margin-top: 200px;
+   margin-left: 33%;
+}
+.res{
+    
+    
+    border: solid;
+    height: 48px;
+    font-size:20px;    
+}
+.btn{
+    
+    color: black;
+
+}
+.btn:hover{
+    outline-color: slategray;
+    border: solid;
+    color: slategray;
+
+}
+#btnEql:hover{
+    outline-color:darkgreen;
+    border: solid;
+    color: green;
+
+}   
+#btnClr:hover{
+    outline-color:red;
+    border: solid;
+    color: red;
+
+}    
+#btn0:hover, #btn1:hover{
+    outline-color:blue;
+    border: solid;
+    color: blue;
+
+}
+.btns > .btn{
+    width: 25%;
+    height: 36px;
+    font-size: 18px;
+    margin: 0px;
+    float: left;
+
+}
